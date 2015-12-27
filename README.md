@@ -3,7 +3,7 @@ Simply example of person authentication based on ReactJS.
 
 ## Using it
 1. Type "npm i" and wait until the packages are installed.
-2. When all modules will installed type "node server.js" in a command prompt
+2. When all modules will installed type "node server.js" in a command prompt.
 
 If everything is running successfully you should be able to see this message:
 
